@@ -12,8 +12,11 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: HTML-FormFu-Manual
+no_index:
+  directory:
+    - example
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=HTML-FormFu-Manual
   homepage: http://github.com/pshangov/html-formfu-manual/tree
   repository: git://github.com/pshangov/html-formfu-manual.git
-version: 0.001
+version: 0.002

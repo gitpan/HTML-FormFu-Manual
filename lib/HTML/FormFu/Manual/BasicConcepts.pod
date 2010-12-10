@@ -9,7 +9,7 @@ HTML::FormFu::Manual::BasicConcepts - HTML::FormFu Manual Chapter I - Basic Conc
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =for stopwords shangov
 inflator

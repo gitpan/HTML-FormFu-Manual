@@ -9,7 +9,7 @@ HTML::FormFu::Manual::Stages - Stages in form processing
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =for stopwords shangov
 html

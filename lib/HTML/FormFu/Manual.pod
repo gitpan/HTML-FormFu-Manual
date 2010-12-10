@@ -8,7 +8,7 @@ HTML::FormFu::Manual - Using HTML::FormFu, Perl's advanced form management libra
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 TABLE OF CONTENTS
 
